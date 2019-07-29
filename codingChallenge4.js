@@ -39,4 +39,4 @@ if (Mark.calcBMI() > John.calcBMI()) {
   console.log(John.fullName, "has the highest BMI at", John.bmi);
 } else {
   console.log("It's a tie.")
-}
+}; 
